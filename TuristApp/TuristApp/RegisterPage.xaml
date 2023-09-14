@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TuristApp.RegisterPage">
+    <StackLayout VerticalOptions="CenterAndExpand" Padding="20">
+        <Label Text="Registro" FontSize="24" HorizontalOptions="CenterAndExpand" Margin="0,0,0,20" />
+
+        <Entry Placeholder="Nombre de Usuario" x:Name="UsernameEntry" Margin="0,0,0,10" />
+        <Entry Placeholder="Contraseña" IsPassword="True" x:Name="PasswordEntry" Margin="0,0,0,10" />
+        <Entry Placeholder="Confirmar Contraseña" IsPassword="True" x:Name="ConfirmPasswordEntry" Margin="0,0,0,20" />
+
+        <Button Text="Registrarse" Clicked="OnRegisterButtonClicked" BackgroundColor="#007AFF" TextColor="White" Margin="0,0,0,10" />
+        <Button Text="Volver al Inicio de Sesión" Clicked="OnLoginLinkClicked" BackgroundColor="#34C759" TextColor="White" />
+
+    </StackLayout>
+</ContentPage>

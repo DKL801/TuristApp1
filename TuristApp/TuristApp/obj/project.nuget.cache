@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ap49L8hw5/FVOm7Kq4BXl1KvI0Ma+a19EIJJiA5gTz0N7jFiZ/z7hcE7ASKsO3bh8vAIAyfpUBhP69QvQREDMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ALEXANDRO\\source\\repos\\TuristApp\\TuristApp\\TuristApp\\TuristApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.4\\sqlitepclraw.provider.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\xamarin.essentials\\1.8.0\\xamarin.essentials.1.8.0.nupkg.sha512",
+    "C:\\Users\\ALEXANDRO\\.nuget\\packages\\xamarin.forms\\5.0.0.2612\\xamarin.forms.5.0.0.2612.nupkg.sha512"
+  ],
+  "logs": []
+}

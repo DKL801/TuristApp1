@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TuristApp.SiteDetailsPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="20">
+                <Label x:Name="NombreLabel" Text="{Binding Nombre}" FontSize="24" HorizontalOptions="CenterAndExpand" />
+                <Label Text="Descripción:" FontSize="18" />
+                <Label x:Name="DescripcionLabel" Text="{Binding Descripcion}" FontSize="16" />
+                <Label Text="Alojamiento:" FontSize="18" />
+                <Label x:Name="AlojamientoLabel" Text="{Binding Alojamiento}" FontSize="16" />
+                <Label Text="Transporte:" FontSize="18" />
+                <Label x:Name="TransporteLabel" Text="{Binding Transporte}" FontSize="16" />
+                <Label Text="Tours:" FontSize="18" />
+                <Label x:Name="ToursLabel" Text="{Binding Tours}" FontSize="16" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
